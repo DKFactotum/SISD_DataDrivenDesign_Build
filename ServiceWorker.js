@@ -1,9 +1,9 @@
 const cacheName = "SISD-BaseSetup-1.0";
 const contentToCache = [
     "Build/SISD_DataDrivenDesignClass.loader.js",
-    "Build/SISD_DataDrivenDesignClass.framework.js.br",
-    "Build/SISD_DataDrivenDesignClass.data.br",
-    "Build/SISD_DataDrivenDesignClass.wasm.br",
+    "Build/SISD_DataDrivenDesignClass.framework.js",
+    "Build/SISD_DataDrivenDesignClass.data",
+    "Build/SISD_DataDrivenDesignClass.wasm",
     "TemplateData/style.css"
 
 ];
